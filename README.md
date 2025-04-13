@@ -33,6 +33,10 @@ The TimeframeSync indicator employs several sophisticated components:
 
 ![image](https://github.com/user-attachments/assets/149405e8-3334-4a1c-8f6a-206ef617ffe9)
 
+![image](https://github.com/user-attachments/assets/54c6ebcc-c5e3-47b6-bc06-a10f1b3a5e41)
+
+![image](https://github.com/user-attachments/assets/380a2d3e-ccec-4982-a4c3-93dd604298b7)
+
 
 ### Key Technical Challenges Solved
 
